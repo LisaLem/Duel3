@@ -1,0 +1,14 @@
+C:\Users\lisam\source\repos\Duel3\Duel3\bin\Debug\net9.0\Duel3.exe
+C:\Users\lisam\source\repos\Duel3\Duel3\bin\Debug\net9.0\Duel3.deps.json
+C:\Users\lisam\source\repos\Duel3\Duel3\bin\Debug\net9.0\Duel3.runtimeconfig.json
+C:\Users\lisam\source\repos\Duel3\Duel3\bin\Debug\net9.0\Duel3.dll
+C:\Users\lisam\source\repos\Duel3\Duel3\bin\Debug\net9.0\Duel3.pdb
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.AssemblyInfoInputs.cache
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.AssemblyInfo.cs
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.csproj.CoreCompileInputs.cache
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.dll
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\refint\Duel3.dll
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.pdb
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\Duel3.genruntimeconfig.cache
+C:\Users\lisam\source\repos\Duel3\Duel3\obj\Debug\net9.0\ref\Duel3.dll
